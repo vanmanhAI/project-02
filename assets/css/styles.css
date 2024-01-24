@@ -896,6 +896,7 @@ a {
 .footer .list strong {
     color: #fff;
     font-weight: 600;
+    margin-right: 3px;
 }
 
 .footer .copyright {
